@@ -1,0 +1,16 @@
+{
+  "name": "metadata-diff",
+  "version": "1.0.0",
+  "description": "Exporting metadata differences to excel and organizing metadata differences by MetadataType",
+  "main": "generate_diff_list.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Masaaki Taguchi",
+  "license": "MIT",
+  "dependencies": {
+    "encoding-japanese": "^2.0.0",
+    "iconv-lite": "^0.6.3",
+    "xlsx-populate": "^1.21.0"
+  }
+}

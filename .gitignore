@@ -1,0 +1,9 @@
+node_modules/
+diff_result/
+metadata1/
+metadata2/
+backup
+diff_list.xlsx
+*.txt
+*.cmd
+diff.exe
